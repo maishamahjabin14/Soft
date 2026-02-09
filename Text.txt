@@ -1,0 +1,14 @@
+git config --global user.name "maishamahjabin14"
+git config --global user.email "siddiquamahjabin@gmail.com"
+
+git init
+
+git remote add origin https://github.com/maishamahjabin14/Soft.git
+
+git push -u origin main
+
+git add Text.txt
+
+git commit -m "1st commit"
+
+git push -u origin main
